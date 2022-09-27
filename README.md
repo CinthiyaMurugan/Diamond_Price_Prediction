@@ -1,1 +1,2 @@
-# Diamond_Price_Prediction
+# 
+Diamond price prediction using sklearn and Streamlit 
